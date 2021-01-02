@@ -1,0 +1,15 @@
+{
+  "name": "sec04",
+  "version": "2.0.4",
+  "description": "Es una prueba de la inicialización del proyecto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {}
+}
